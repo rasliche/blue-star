@@ -29,6 +29,25 @@
  * @import "components/forms";
  */
 
+.bs-border {
+    @apply .border-blue-light .border-2 .rounded-lg;
+}
+
+.n-border {
+    @apply .border-green-light .border-2 .rounded-lg;
+}
+
+.to-border {
+    @apply .border-red-light .border-2 .rounded-lg;
+}
+
+.md-border {
+    @apply .border-yellow-darker .border-2 .rounded-lg;
+}
+
+/*.container {
+    display: flex;
+}*/
 /**
  * This injects all of Tailwind's utility classes, generated based on your
  * config file.

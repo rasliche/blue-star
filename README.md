@@ -1,6 +1,8 @@
 # blue-star
 
-> A Vue.js project
+> A Vue.js project for FKNMS.
+
+> Users can view educational modules and be quizzed on the content. Different tracks enable users to qualify for various forms of interaction as official volunteers with FKNMS. In person training and demonstration of skills is often required as well.
 
 ## Build Setup
 

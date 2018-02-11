@@ -12,7 +12,8 @@
   "dependencies": {
     "faker": "^4.1.0",
     "vue": "^2.4.4",
-    "vue-faker": "^1.0.1"
+    "vue-faker": "^1.0.1",
+    "vue-router": "^3.0.1"
   },
   "browserslist": [
     "> 1%",
